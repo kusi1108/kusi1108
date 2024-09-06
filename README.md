@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **khushiagrawal637669@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zDdh2EFTq738Wkg-gam-e8RVpfNQg1I7/view?usp=sharing](https://drive.google.com/file/d/1zDdh2EFTq738Wkg-gam-e8RVpfNQg1I7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zDdh2EFTq738Wkg-gam-e8RVpfNQg1I7/view?usp=sharing](https://drive.google.com/file/d/1KCIoKjFTDjHzZm2wcpBRUmHj41kAATBn/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
