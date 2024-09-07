@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Khushi Agrawal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **khushiagrawal637669@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zDdh2EFTq738Wkg-gam-e8RVpfNQg1I7/view?usp=sharing](https://drive.google.com/file/d/1KCIoKjFTDjHzZm2wcpBRUmHj41kAATBn/view?usp=drive_link))
+- 📄 Know about my experiences (https://drive.google.com/file/d/1KCIoKjFTDjHzZm2wcpBRUmHj41kAATBn/view?usp=drive_link))](https://drive.google.com/file/d/1KCIoKjFTDjHzZm2wcpBRUmHj41kAATBn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
