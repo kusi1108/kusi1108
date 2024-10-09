@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **khushiagrawal637669@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1KCIoKjFTDjHzZm2wcpBRUmHj41kAATBn/view?usp=sharing](https://drive.google.com/file/d/1EISJ6GuItnRSc1xrAqzQwqf2WZbjW4RC/view?usp=sharing))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1EISJ6GuItnRSc1xrAqzQwqf2WZbjW4RC/view?usp=sharing](https://drive.google.com/file/d/19-Fb6t0L9EhG4ALXSGt4f6D8FkCMimc6/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
