@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences ([https://drive.google.com/file/d/1_Ev0dJt9yczsFUeCKGZQpNdyb2ScvVaU/view?usp=sharing](https://drive.google.com/file/d/1_Ev0dJt9yczsFUeCKGZQpNdyb2ScvVaU/view?usp=sharing))
 - 🖥️ Visit ([RoadMap Profile](https://roadmap.sh/u/khushi1108))
-- - ⚡ Fun fact: **Reading Books, Anime, Thriller Movies, Sketching**
+- ⚡ Fun fact: **Reading Books, Anime, Thriller Movies, Sketching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
