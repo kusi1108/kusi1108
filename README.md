@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kusi1108&show_icons=true&locale=en" alt="kusi1108" /></p>
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=kusi1108&" alt="kusi1108" /></p>
-<p><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6707a2bafb4be684dbe6efba?variant=dark&roadmaps=java%2Cfrontend%2Cgit-github" alt="roadmap.sh"/></a></p>
+<p><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6707a2bafb4be684dbe6efba?variant=dark&roadmaps=java%2Cgit-github%2Cfrontend" alt="roadmap.sh"/></a></p>
 <!--
 **kusi1108/kusi1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
