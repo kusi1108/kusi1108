@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Khushi Agrawal</h1>
+<h1 align="center">Hi 👋, I'm Khushi Agrawal</h1> 
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
