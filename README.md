@@ -5,7 +5,6 @@
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusi1108&label=Profile%20views&color=0e75b6&style=flat" alt="kusi1108" /> </p>
-
 - 🌱 I’m currently learning **Android Development, Advance Java & React**
 
 - 📫 How to reach me **khushiagrawal637669@gmail.com**
