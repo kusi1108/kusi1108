@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Khushi Agrawal</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Khushi Agrawal</h1>
 
+<!--<h3 align="center">A passionate Software Developer from India</h3> -->
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=100000&color=9f88f0&center=true&width=600&lines=A+passionate+Software+Developer+from+India" alt="Typing SVG" />
+</h3>
 
 <img align ="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
@@ -17,6 +21,7 @@
 
 - ⚡ Fun fact **Reading Books, Anime, Thriller Movies, Sketching**
 - 🗺️ Visit my Roadmap [Roadmap.sh](https://roadmap.sh/u/khushi1108)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +42,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kusi1108&theme=dark" alt="kusi1108" /></p>
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6707a2bafb4be684dbe6efba?variant=dark&roadmaps=java%2Creact%2Cgit-github%2Cdocker" alt="roadmap.sh"/></a>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
