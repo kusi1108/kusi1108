@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **khushiagrawal637669@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_Ev0dJt9yczsFUeCKGZQpNdyb2ScvVaU/view](https://drive.google.com/file/d/1_Ev0dJt9yczsFUeCKGZQpNdyb2ScvVaU/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1TvdyNrbdBXBiuUAZ-kdn8HuLU3aPkUA_/view?usp=drive_link)
 
 - ⚡ Fun fact **Reading Books, Anime, Thriller Movies, Sketching**
 - 🗺️ Visit my Roadmap [Roadmap.sh](https://roadmap.sh/u/khushi1108)
